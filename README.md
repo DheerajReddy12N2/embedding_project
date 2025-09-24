@@ -30,5 +30,7 @@ Project Structure 📁 Here's a brief overview of the key files in the project:
 main.py: The main script for the Streamlit application.
 venv/: The project's virtual environment directory.
 
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/cd001b3c-b4f3-44ec-a51c-e82ea460cfc6" />
+<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/e32eb92e-b171-4bbf-83cd-459721335ad5" />
 
  
